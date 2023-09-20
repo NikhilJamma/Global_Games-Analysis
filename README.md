@@ -36,9 +36,9 @@ In this project, we performed data analysis and data mining to answer three rese
 
 This GitHub repository is organized into two main folders:
 
-- **Data**: Contains the dataset used for analysis (`global_video_game_sales.csv`) and the presentation (`presentation.pdf`) summarizing the findings related to the research questions.
+- **Data**: Contains the dataset used for analysis (`global_video_game_sales.csv`) and the presentation (`GGS-Presentation.pdf`) summarizing the findings related to the research questions.
 
-- **Code**: Contains the code and Jupyter Notebook files (`data_analysis.ipynb` and `data_mining.ipynb`) used for data analysis and data mining. These notebooks provide step-by-step explanations of how the research questions were addressed.
+- **Code**: Contains the code and Jupyter Notebook files (`GGS-DataAnalysis.ipynb` and `GGS-DataMining.ipynb`) used for data analysis and data mining. These notebooks provide step-by-step explanations of how the research questions were addressed.
 
 ## Getting Started
 
@@ -46,11 +46,11 @@ To explore this project and its findings, follow these steps:
 
 1. Clone this GitHub repository to your local machine.
 
-2. Navigate to the `Data` folder to access the dataset and the presentation summarizing the analysis.
+2. Navigate to the `data` folder to access the dataset and the presentation summarizing the analysis.
 
-3. Explore the `Code` folder to review the Jupyter Notebook files that detail the data analysis and data mining processes.
+3. Explore the `code` folder to review the Jupyter Notebook files that detail the data analysis and data mining processes.
 
-4. Refer to the presentation (`presentation.pdf`) to gain an overview of the research questions and their answers.
+4. Refer to the presentation (`GGS-Presentation.pdf`) to gain an overview of the research questions and their answers.
 
 ## Conclusion
 
